@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TDD</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="incorrect_access">Please check Username or Password.</string>
+    <string name="attempts_exceed">You have exceeded the maximum of attempts.</string>
+    <string name="login_successful">Login successful.</string>
 </resources>

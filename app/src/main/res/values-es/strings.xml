@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TDD</string>
+    <string name="user_name">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="incorrect_access">Por favor verifica tu Usuario y/o Contraseña.</string>
+    <string name="attempts_exceed">Has excedido el numero de atentos permitidos.</string>
+    <string name="login_successful">Inicio de sesión exitoso.</string>
+</resources>
