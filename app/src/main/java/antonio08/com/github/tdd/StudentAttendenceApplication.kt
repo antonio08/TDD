@@ -1,8 +1,5 @@
 /**
- * Created by Antonio Lozano
- *
- * 02/06/2020
- *
+ * Created by Antonio Lozano on 2020-02-06.
  */
 package antonio08.com.github.tdd
 
