@@ -8,7 +8,6 @@ import org.junit.Test
 import org.mockito.Mockito.mock
 import org.mockito.Mockito.verify
 
-
 class LoginPresenterTest{
 
     @Test
